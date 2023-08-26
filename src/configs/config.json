@@ -1,0 +1,39 @@
+{ 
+    "GuildID":"914479013832052786",
+    "owners": ["469555917403324439","902943204540841984"],
+    "BotDurum": ["Developed By Aspect","Aspect was here ?"],
+    "BotSesKanal": "914479014628970516",
+    "AltBaşlık": "Aspect was here ?",
+    "guildID": "914479013832052786",
+    "BotClientID": "930164645157802004",
+    "owners": ["469555917403324439","902943204540841984"],
+
+"Main": {
+    "prefix": ["-"],
+    "BotClientID": "930164645157802004",
+    "mongoUrl": "mongodb+srv://deneme1221:deneme1221@deneme.hxfdm.mongodb.net/svirrabots12?retryWrites=true&w=majority",
+
+    "dmMessages": true,
+    "LevelSystem": true,
+  
+    "messageDolar": 1,
+    "voiceDolar": 1,
+  
+    "messageCount": 1,
+    "messageCoin": 2,
+    "voiceCount": 1,
+    "voiceCoin": 2,
+    "publicCoin": 2,
+    "inviteCount": 1,
+    "inviteCoin": 10,
+    "taggedCoin": 20,
+    "toplamsCoin": 5.5,
+    "yetkiCoin": 30,
+  
+    "banlimit": 3,
+    "jaillimit": 5,
+    "warnlimit": 3,
+    "chatmutelimit": 3,
+    "voicemutelimit": 3
+}
+}
